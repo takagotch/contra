@@ -158,4 +158,3 @@ var λ = contra;
 
 <script src='contra.shim.js'></scirpt>
 ```
-### contra
