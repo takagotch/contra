@@ -150,7 +150,7 @@ require('contra/shim');
 var λ = require('contra');
 ```
 
-```
+```html
 <script src='contra.js'></script>
 <script>
 var λ = contra;
